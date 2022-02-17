@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(54, 129, 173);
+    font-family:'Courier New', Courier, monospace;
+}
+.text{
+    color: rgb(230, 180, 43);
+
+}
+#content{
+    background-color: rgb(14, 173, 147);
+    color: aliceblue;
+}
+

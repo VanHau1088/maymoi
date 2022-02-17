@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(51, 137, 187);
+}
+
+#btn{
+    border: 0;
+    border-radius: 3px;
+    padding: 10px 10px;
+}
+
+#btn_button{
+    border: 0;
+    padding: 10px 10px;
+    margin-left: 3px;
+    background-color: rgb(49, 18, 160);
+    cursor: pointer;
+    color: white;
+}
